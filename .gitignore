@@ -13,6 +13,7 @@ sources/Loader/Listings/*
 sources/Loader/Objects-Debug/*
 sources/Loader/Listings-Debug/*
 sources/Loader/DebugConfig/*
+sources/Loader/RTE/*
 
 sources/Panel/Objects/*
 sources/Panel/Listings/*
@@ -21,3 +22,4 @@ sources/Panel/Listings-Debug/*
 sources/Panel/DebugConfig/*
 sources/Panel/*.bin
 sources/Panel/*.crc32
+sources/Panel/RTE/*
